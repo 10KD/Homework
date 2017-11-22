@@ -5,3 +5,14 @@ nav {
 
 ul {
 }
+
+img {
+  display: block;
+  height: 100px;
+  width: 100px;
+}
+
+body {
+  display: flex;
+  justify-content: space-between;
+}
